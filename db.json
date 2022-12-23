@@ -15,11 +15,32 @@
       "image": "https://switchandclick.com/wp-content/uploads/2021/01/IMG_6505-1024x683-1.jpg"
     },
     {
-      "id": "epomaker-sk64",
-      "name": "Epomaker SK64",
-      "details": "Epomaker SK64 メカニカルキーボード RGBバックライト 赤軸",
-      "price": "¥7,580",
-      "image": "https://switchandclick.com/wp-content/uploads/2021/01/IMG_6505-1024x683-1.jpg"
+      "id": "mxkeys-mini",
+      "name": "MX KEYS MINI for Mac",
+      "details": "MX KEYS MINI for Mac ミニマリスト ワイヤレス イルミネーション キーボード",
+      "price": "¥15,950",
+      "image": "https://pc.watch.impress.co.jp/img/pcw/docs/1436/009/PH01_l.jpg"
+    },
+    {
+      "id": "boyata-pcstand",
+      "name": "BoYata ノートPCスタンド",
+      "details": "BoYata PCスタンド 高さ/角度調整可能 滑り止め アルミ合金製",
+      "price": "¥5,299",
+      "image": "https://m.media-amazon.com/images/I/61qEhrlMjrL._AC_SX425_.jpg"
+    },
+    {
+      "id": "anker-pe-hub",
+      "name": "Anker PowerExpand+ 7-in-1 USB-C PD イーサネット ハブ",
+      "details": "Anker PowerExpand+ 7-in-1 USB-C PD イーサネット ハブ 4K対応HDMI出力ポート 60W Power Delivery 対応USB-Cポート 1Gbps イーサネット USB-A ポート microSD&SDカード スロット搭載",
+      "price": "¥7,190",
+      "image": "https://assets.st-note.com/production/uploads/images/14616111/rectangle_large_type_2_30fb1717d7c1fff0eebca546a89b008c.jpeg"
+    },
+    {
+      "id": "mousepad",
+      "name": "大型マウスパッド",
+      "details": "キーボードとマウス用の大型マウスパッド、80 x 40 cm",
+      "price": "¥1,299",
+      "image": "https://m.media-amazon.com/images/I/71FDp8jOitL._AC_SX679_.jpg"
     }
   ],
   "profile": {
