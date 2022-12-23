@@ -8,11 +8,18 @@
       "image": "https://www.rakunew.com/images/a6/0f239f57d935711fc7cd52ffe2157/_.jpg"
     },
     {
-      "id": "ghost-whey-vegan",
-      "name": "GHOST® Protein",
-      "details": "GHOST Vegan Protein combines a premium",
-      "price": "$49.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+      "id": "epomaker-sk64",
+      "name": "Epomaker SK64",
+      "details": "Epomaker SK64 メカニカルキーボード RGBバックライト 赤軸",
+      "price": "¥7,580",
+      "image": "https://switchandclick.com/wp-content/uploads/2021/01/IMG_6505-1024x683-1.jpg"
+    },
+    {
+      "id": "epomaker-sk64",
+      "name": "Epomaker SK64",
+      "details": "Epomaker SK64 メカニカルキーボード RGBバックライト 赤軸",
+      "price": "¥7,580",
+      "image": "https://switchandclick.com/wp-content/uploads/2021/01/IMG_6505-1024x683-1.jpg"
     }
   ],
   "profile": {
